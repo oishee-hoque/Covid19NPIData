@@ -1,6 +1,6 @@
 # Covid-19 NPI Data
 
-<b>Main Dataset (npi_data/*.xlsx)</b>
+<b>Main Dataset Attributes (npi_data/*.xlsx)</b>
 <li>FIPS: FIPS of the county.</li>
 <li>Location name: Name of the county.</li>
 <li>NPI measure: Type of NPI measure.</li>
