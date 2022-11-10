@@ -2,7 +2,6 @@
 
 
 
-
 # Covid-19 NPI Data
 
 <b>Main Dataset Attributes (npi_data/*.xlsx)</b>
