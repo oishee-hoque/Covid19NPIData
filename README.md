@@ -1,3 +1,8 @@
+<a href="https://zenodo.org/badge/latestdoi/553712109"><img src="https://zenodo.org/badge/553712109.svg" alt="DOI"></a>
+
+
+
+
 # Covid-19 NPI Data
 
 <b>Main Dataset Attributes (npi_data/*.xlsx)</b>
