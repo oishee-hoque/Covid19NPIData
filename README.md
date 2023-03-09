@@ -27,15 +27,15 @@ notes on nuances not included in the tags.</li>
  
 ### Please cite this dataset as below:
 
-@article{10.1038/s41597-023-01979-6,
-Year = {2023}, 
-Title = {{COVID-19 non-pharmaceutical interventions: data annotation for rapidly changing local policy information}}, 
-Author = {Hurt, Benjamin and Hoque, Oishee Bintey and Mokrzycki, Finn and Mathew, Anjali and Xue, Maryann and Gabitsinashvili, Luka and Mokrzycki, Haile and Fischer, Ranya and Telesca, Nicholas and Xue, Lauren Aurelia and Ritchie, Jacob and J, D Zamfirescu-Pereira and Bernstein, Michael and Whiting, Mark and Marathe, Madhav}, 
-Journal = {Scientific Data}, 
-Doi = {10.1038/s41597-023-01979-6}, 
-Pages = {126}, 
-Number = {1}, 
-Volume = {10}
+@article{10.1038/s41597-023-01979-6,  <br>
+Year = {2023},  <br>
+Title = {{COVID-19 non-pharmaceutical interventions: data annotation for rapidly changing local policy information}},  <br>
+Author = {Hurt, Benjamin and Hoque, Oishee Bintey and Mokrzycki, Finn and Mathew, Anjali and Xue, Maryann and Gabitsinashvili, Luka and Mokrzycki, Haile and Fischer, Ranya and Telesca, Nicholas and Xue, Lauren Aurelia and Ritchie, Jacob and J, D Zamfirescu-Pereira and Bernstein, Michael and Whiting, Mark and Marathe, Madhav},  <br> 
+Journal = {Scientific Data},  <br>
+Doi = {10.1038/s41597-023-01979-6},  <br>
+Pages = {126},  <br>
+Number = {1},  <br>
+Volume = {10} <br>
 }
 
 
