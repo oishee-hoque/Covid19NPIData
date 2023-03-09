@@ -22,9 +22,9 @@ notes on nuances not included in the tags.</li>
  <br>
  <br>
  
-Please cite this dataset as below:
+### Please cite this dataset as below:
 
-@article{10.1038/s41597-023-01979-6, 
+@article{10.1038/s41597-023-01979-6, \br
 year = {2023}, 
 title = {{COVID-19 non-pharmaceutical interventions: data annotation for rapidly changing local policy information}}, 
 author = {Hurt, Benjamin and Hoque, Oishee Bintey and Mokrzycki, Finn and Mathew, Anjali and Xue, Maryann and Gabitsinashvili, Luka and Mokrzycki, Haile and Fischer, Ranya and Telesca, Nicholas and Xue, Lauren Aurelia and Ritchie, Jacob and J, D Zamfirescu-Pereira and Bernstein, Michael and Whiting, Mark and Marathe, Madhav}, 
