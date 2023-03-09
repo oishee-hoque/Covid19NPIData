@@ -25,7 +25,7 @@ notes on nuances not included in the tags.</li>
 *Paper Published in Scientific Data:* "COVID-19 non-pharmaceutical interventions: data annotation for rapidly changing local policy information"
 [https://www.nature.com/articles/s41597-023-01979-6]
  
-### Please cite this dataset as below:
+*#### Please cite this dataset as below:*
 
 @article{10.1038/s41597-023-01979-6,  <br>
 Year = {2023},  <br>
