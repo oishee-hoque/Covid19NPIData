@@ -17,15 +17,17 @@ This also includes notes on nuances not included in the tags.</li>
 <li>End Notes. Contains tags that only apply to the end date go here. Tag description can be found in Table 3. This also includes
 notes on nuances not included in the tags.</li>
 <li>Validated (Correctness): Binary field indicating if the record was validated for correctness.</li>
-
-
  <br>
  <br>
  
-*Paper Published in Scientific Data:* "COVID-19 non-pharmaceutical interventions: data annotation for rapidly changing local policy information"
+## Paper Published in Scientific Data
+
+"COVID-19 non-pharmaceutical interventions: data annotation for rapidly changing local policy information"
 [https://www.nature.com/articles/s41597-023-01979-6]
- 
-*#### Please cite this dataset as below:*
+<br>
+<br>
+
+## Please cite this dataset as below
 
 @article{10.1038/s41597-023-01979-6,  <br>
 Year = {2023},  <br>
